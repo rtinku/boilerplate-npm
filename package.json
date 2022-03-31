@@ -3,7 +3,8 @@
 	"author" : "rushil",
 	"license": "MIT",
 	"description" : "demo project",
-	"keywords" : "[ "freecodecamp" ]",
+	"keywords" : "[ freecodecamp ]",
+	"version" : "1.0.0", 
 	"dependencies": {
 		"express": "^4.14.0"
 	},
